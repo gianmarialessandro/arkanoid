@@ -1,5 +1,6 @@
 # Arkanoid game
-little game of arkanoid for learning how r3f is working
+
+## little game of arkanoid for learning detpher how r3f(react-three-fiber) and React are working
 
 
-### usefull experimet on the side for understandig how my web sit will be structured 
+### aswell usefull experimet for understandig how my website will be structured 
